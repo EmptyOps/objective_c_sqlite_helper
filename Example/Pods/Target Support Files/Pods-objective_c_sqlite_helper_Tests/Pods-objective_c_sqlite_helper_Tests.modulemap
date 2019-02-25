@@ -1,0 +1,6 @@
+framework module Pods_objective_c_sqlite_helper_Tests {
+  umbrella header "Pods-objective_c_sqlite_helper_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

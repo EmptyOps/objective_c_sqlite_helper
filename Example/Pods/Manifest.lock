@@ -1,0 +1,16 @@
+PODS:
+  - objective_c_sqlite_helper (0.0.1)
+
+DEPENDENCIES:
+  - objective_c_sqlite_helper (from `~/Documents/Classes/objective_c_sqlite_helper`)
+
+EXTERNAL SOURCES:
+  objective_c_sqlite_helper:
+    :path: "~/Documents/Classes/objective_c_sqlite_helper"
+
+SPEC CHECKSUMS:
+  objective_c_sqlite_helper: c361a93d62f73b7ffd9d44f1ff0d84cb0fa0f3e6
+
+PODFILE CHECKSUM: dd62f0b748a77f0864fc793dafa87d2bb1d3e8ad
+
+COCOAPODS: 1.5.3

@@ -1,13 +1,14 @@
+
+platform :ios, '7.0'
 use_frameworks!
 
-platform :ios, '8.0'
-
+source 'https://github.com/EmptyOps/objective_c_sqlite_helper.git'
 target 'objective_c_sqlite_helper_Example' do
-  pod 'objective_c_sqlite_helper', :path => '../'
-
-  target 'objective_c_sqlite_helper_Tests' do
-    inherit! :search_paths
-
     
-  end
+    pod 'objective_c_sqlite_helper', :path => '~/Documents/Classes/objective_c_sqlite_helper'
+    
+end
+
+target 'objective_c_sqlite_helper_Tests' do
+    //
 end
