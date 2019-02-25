@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'objective_c_sqlite_helper_Example' do
+  pod 'objective_c_sqlite_helper', :path => '../'
+
+  target 'objective_c_sqlite_helper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
