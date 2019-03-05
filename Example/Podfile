@@ -7,8 +7,10 @@ target 'objective_c_sqlite_helper_Example' do
     
     pod 'objective_c_sqlite_helper', :path => '~/Documents/Classes/objective_c_sqlite_helper'
     
+    target 'objective_c_sqlite_helper_Tests' do
+        inherit! :search_paths
+    end
+    
 end
 
-target 'objective_c_sqlite_helper_Tests' do
-    //
-end
+

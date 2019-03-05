@@ -1,5 +1,5 @@
 PODS:
-  - objective_c_sqlite_helper (0.0.1)
+  - objective_c_sqlite_helper (0.0.2)
 
 DEPENDENCIES:
   - objective_c_sqlite_helper (from `~/Documents/Classes/objective_c_sqlite_helper`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "~/Documents/Classes/objective_c_sqlite_helper"
 
 SPEC CHECKSUMS:
-  objective_c_sqlite_helper: c361a93d62f73b7ffd9d44f1ff0d84cb0fa0f3e6
+  objective_c_sqlite_helper: 022f9c8f730666798f4811d05f2f1474452b5399
 
-PODFILE CHECKSUM: dd62f0b748a77f0864fc793dafa87d2bb1d3e8ad
+PODFILE CHECKSUM: fdc331807470f1a5797fd2453fd89b754e07d9ee
 
 COCOAPODS: 1.5.3
